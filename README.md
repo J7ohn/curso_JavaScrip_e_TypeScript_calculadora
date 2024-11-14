@@ -28,7 +28,7 @@ O código acima mostra a implementação da calculadora com uma **Função Fábr
 - **Método `realizaConta()`**: Faz o cálculo da expressão digitada no display e apresenta o resultado, após uma verificação de segurança com regex para validar os caracteres.
 - **Eventos de Teclado**: Foram adicionados eventos para as teclas "Enter" e "Backspace", possibilitando uma experiência de uso similar à de uma calculadora física.
 
-## O Que eu aprendi:
+## O Que eu Aprendi:
 
 Este projeto oferece uma ótima oportunidade para desenvolver conhecimentos em:
 
